@@ -1,13 +1,12 @@
 # Viaggio
-
-Viaggio te ayuda con la información que necesitas de las empresas y de lo que opinan otros usuarios, para que tu viaje interprovincial sea el mejor.
+Viaggio quiere reducir la falta de información sobre las opciones de viaje en bus y sus servicios. Los usuarios pueden visualizar no sólo la información ofrecida por la empresa, sino también los comentarios de diversos usuarios.
 
 ![visualizacion-01](https://user-images.githubusercontent.com/32303418/36361934-35457edc-14fe-11e8-955e-c8a77426b076.jpg)
 
+## Desarrollado para
+ [Laboratoria](http://laboratoria.la)
 
-#### Desarrollado para [Laboratoria](http://laboratoria.la)
-
-# Proyecto: NUEVA EXPERIENCIA EN EMPRESAS DE BUSES
+# Viaggio
 
 ## Equipo Ying-Yang Design
 
