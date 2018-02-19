@@ -6,16 +6,6 @@ Viaggio quiere reducir la falta de información sobre las opciones de viaje en b
 ## Desarrollado para
  [Laboratoria](http://laboratoria.la)
 
-# Viaggio
-
-## Equipo Ying-Yang Design
-
-* Nataly Cortez
-* Karina Buhezo
-* Andrea Encarnación
-* Isabel Chávez
-* Shannon Rivera
-* Ada Yajahuanca
 
 ### EL RETO:
 Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Durante sus últimas vacaciones Catalina estuvo viajando por todo latinoamérica. Durante estos viajes Catalina tuvo que tomar muchos buses de todo tipo para llegar a ver los paisajes más lindos del continente.
@@ -564,3 +554,13 @@ Hombre 24 años
 * No le encuentra sentido a logearse.
 
 * Le gustaría ver fotos de los buses o descripciones más precisas.
+
+
+## Equipo Ying-Yang Design
+
+* Nataly Cortez
+* Karina Buhezo
+* Andrea Encarnación
+* Isabel Chávez
+* Shannon Rivera
+* Ada Yajahuanca
